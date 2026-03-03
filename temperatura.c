@@ -16,7 +16,7 @@ void converte(char x, float y){
 int main(){
     char grau;
     float temperatura;
-    printf("digite o grau (c ou f) e a temperatura\n");
+    printf("digite o a escala desejada (c ou f) e a temperatura\n");
 
     scanf(" %c %f", &grau, &temperatura);
 

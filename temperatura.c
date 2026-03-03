@@ -3,7 +3,7 @@
 
 void converte(char x, float y){
     float temp;
-    tolower(x);
+    x = tolower(x);
     if(x == 'c'){
         temp = (y * 9/5) + 32;
         printf("Celsius = %.1f°C\nFarenheit = %.1f°F\n", y, temp);

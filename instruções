@@ -1,0 +1,3 @@
+Todos os codigos necessitam de apenas uma entrada, que seria o número desejado, com exceção do código de conversão de 
+temperatura, que necessita da entrada de uma letra pra se referir a Celsius e outra para se referir a Farenheit ("c" 
+e "f" repectivamente), seguido da temperatura desejada.
